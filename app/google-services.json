@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "931290630497",
+    "project_id": "photosaver-73072",
+    "storage_bucket": "photosaver-73072.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931290630497:android:4e1952842e18002b0a5d20",
+        "android_client_info": {
+          "package_name": "com.example.photosaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931290630497-talm2goo04citn1o6dqom45quaottbc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuZt1p9gdzQtlMo9c115DcDoSvJ6rMoEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931290630497-talm2goo04citn1o6dqom45quaottbc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
